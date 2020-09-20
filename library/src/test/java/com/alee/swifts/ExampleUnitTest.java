@@ -1,4 +1,4 @@
-package com.alee.library;
+package com.alee.swifts;
 
 import org.junit.Test;
 
